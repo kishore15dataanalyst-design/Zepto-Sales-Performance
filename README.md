@@ -5,6 +5,7 @@ This dashboard analyzes sales performance, customer behavior, and order trends f
 
 ## 🔧 Tools Used
 - Power BI
+- SQL
 - Excel
 
 ## 📌 Key Insights
